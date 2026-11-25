@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: WildHelp
+## Notes: Player services directory for WoW Forever
+## Author: Uncle Bone
+## Version: 0.1.0-alpha.1
+## SavedVariables: WildHelpDB
+WildHelp.lua
